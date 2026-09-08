@@ -8,4 +8,4 @@ Sistema resposavel pelo cadastro de novos colaboradores. No sistema, devera ser 
 
 ## Descrição
 
-Iremos colocar um sistema de cadastro para os Novos Talentos entrarem. A gente irá colocar um codigo python para conseguirem cadastrar e entrar na conta.
+Iremos colocar um sistema de cadastro para os Novos Talentos entrarem. A gente irá colocar um codigo python para conseguirem cadastrar e entrar na conta. quando cadastrarem irão se deparar com o seu salario e o seu salario bonificado(15%).
