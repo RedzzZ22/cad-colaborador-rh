@@ -28,3 +28,7 @@ ou podem nos contatar pelo nosso telefone também, telefone: (43) 98888-8888.
 ## Descrição
 
 Nosso projeto ainda esta no papel, ainda não estamos colocar em pratica. mas, ja estamos planejado começar o projeto em pelo menos 1 semana.
+
+# Autores do projeto 
+
+## EmpresaTechPY
