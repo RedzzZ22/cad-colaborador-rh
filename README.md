@@ -31,4 +31,6 @@ Nosso projeto ainda esta no papel, ainda não estamos colocar em pratica. mas, j
 
 # Autores do projeto 
 
-## EmpresaTechPY
+## EmpresaTechPY.
+
+(![alt text](image.png)) 
