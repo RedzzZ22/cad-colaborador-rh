@@ -22,3 +22,9 @@ os usuários irão ultilizar para ver o seu salario atual e se teve alguma alter
 
 caso houver algum problema ou alguma duvida sobre o projeto, entre em contato no nosso email: EmpresaTechPy@hotmail.com
 ou podem nos contatar pelo nosso telefone também, telefone: (43) 98888-8888.
+
+# Como esta o projeto?
+
+## Descrição
+
+Nosso projeto ainda esta no papel, ainda não estamos colocar em pratica. mas, ja estamos planejado começar o projeto em pelo menos 1 semana.
